@@ -13,7 +13,7 @@
 
 <script type="text/javascript">
 
-	$(document).ready(function(){
+	$(document).ready(function(){ 
 	  main();				// start find players
 	});
 
