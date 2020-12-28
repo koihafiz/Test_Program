@@ -1,6 +1,6 @@
 # ************************************************************
 #
-# The improvement has been made:
+# The improvement has been made: 
 # 1. Remove wildcards at the front of a phrase - if applicable
 # 2. Put IS NUll in WHERE clause
 #
